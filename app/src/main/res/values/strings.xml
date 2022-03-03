@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParcialSemana6-grupo5</string>
+    <string name="t1">programacion II</string>
+    <string name="t2">grupo numero IV</string>
+    <string name="t3">ciclo-III-2022</string>
+
+    <string name="titulo">CONTROLES BASICO</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+
+
+
+</resources>
