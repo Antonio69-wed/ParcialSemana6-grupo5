@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ParcialSemana6grupo5">
         <activity
+            android:name=".sensor_de_proximidad"
+            android:exported="false" />
+        <activity
+            android:name=".Creacion_de_Tab"
+            android:exported="false" />
+        <activity
+            android:name=".RecibirDatos"
+            android:exported="false" />
+        <activity
             android:name=".EnviarDatos"
             android:exported="false" />
         <activity

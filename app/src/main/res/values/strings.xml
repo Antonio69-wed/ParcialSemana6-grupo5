@@ -8,7 +8,20 @@
     <string name="nombre">Escriba su nombre</string>
     <string name="apellido">Escriba su apellido</string>
     <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="MostrarDatos">Dato Recibido </string>
+    <string name="Volver"> Volver</string>
 
+    <string name="contacto"> Contacto</string>
+    <string name="correo"> Correo</string>
+    <string name="mensaje"> Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragcontacto"> Frag de Contacto</string>
+    <string name="fragcorreo"> Frag de Correo</string>
+    <string name="fragmensaje"> Frag de Mensaje</string>
 
+    <string name="sensor"> Sensor de proximidad</string>
 
+    <string name="iniciar">INICIAR</string>
+    <string name="parar">DETENER</string>
 </resources>
